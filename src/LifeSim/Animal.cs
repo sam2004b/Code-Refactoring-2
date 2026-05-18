@@ -35,43 +35,79 @@ public abstract class Animal : Organism
     {
         base.Tick();
 
+        InitializeEnergy();
+        HandleMovement();
+        
+        Energy -= MoveCost;
+
+        HandleReproduction();
+        HandleDeath();
+    }
+
+    private void InitializeEnergy()
+    {
         if (Age == 1 && Energy == 0)
         {
             Energy = InitialEnergy;
         }
+    }
 
+    private void HandleMovement()
+    {
         var prey = FindPrey();
+
         if (prey != null)
         {
-            StepToward(prey.Pos);
-            if (AreNeighborsOrSame(Pos, prey.Pos) && prey.IsAlive)
-            {
-                World.Remove(prey);
-                Energy += BiteGain;
-            }
+            MoveTowardPrey(prey);
+            return;
         }
-        else
+
+        Wander();
+    }
+
+    private void MoveTowardPrey(Organism prey)
+    {
+        StepToward(prey.Pos);
+
+        if (AreNeighborsOrSame(Pos, prey.Pos) && prey.IsAlive)
         {
-            Wander();
+            World.Remove(prey);
+            Energy += BiteGain;
         }
+    }
 
-        Energy -= MoveCost;
-
-        if (Energy >= ReproduceThreshold)
+    private void HandleReproduction()
+    {
+        if (Energy < ReproduceThreshold)
         {
-            var empty = World.EmptyNeighbors8(Pos).ToList();
-            if (empty.Count > 0)
-            {
-                var child = MakeChild(empty.Pick()!);
-                Energy /= 2;
-                World.Add(child);
-            }
+            return;
         }
 
-        if (Energy <= 0 || (Age > MaxAge && Rand.Chance(0.02)))
+        var emptyNeighbors = World.EmptyNeighbors8(Pos).ToList();
+
+        if (emptyNeighbors.Count == 0)
+        {
+            return;
+        }
+
+        var child = MakeChild(emptyNeighbors.Pick()!);
+
+        Energy /= 2;
+
+        World.Add(child);
+    }
+
+    private void HandleDeath()
+    {
+        if (Energy <= 0 || IsOldAndDies())
         {
             World.Remove(this);
         }
+    }
+
+    private bool IsOldAndDies()
+    {
+        return Age > MaxAge && Rand.Chance(0.02);
     }
 
     protected abstract Organism? FindPrey();
@@ -87,6 +123,7 @@ public abstract class Animal : Organism
         var dy = BestToroidalStep(Pos.Y, target.Y, World.Height);
 
         var candidates = new List<Point2>();
+
         if (dx != 0)
         {
             candidates.Add(World.Wrap(new Point2(Pos.X + dx, Pos.Y)));
@@ -103,6 +140,7 @@ public abstract class Animal : Organism
         }
 
         var free = candidates.Where(World.IsEmpty).ToList();
+
         if (free.Count == 0)
         {
             Wander();
@@ -115,6 +153,7 @@ public abstract class Animal : Organism
     protected void Wander()
     {
         var options = World.EmptyNeighbors8(Pos).ToList();
+
         if (options.Count > 0)
         {
             World.MoveTo(this, options.Pick()!);
