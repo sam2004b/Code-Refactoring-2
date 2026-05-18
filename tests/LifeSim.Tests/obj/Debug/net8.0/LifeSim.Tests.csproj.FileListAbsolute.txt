@@ -1,0 +1,208 @@
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_LifeSim.Tests
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.deps.json
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.runtimeconfig.json
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.Tests.deps.json
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.Tests.runtimeconfig.json
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.Tests.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.Tests.pdb
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/testhost.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/xunit.assert.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/xunit.core.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.pdb
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.csproj.AssemblyReference.cache
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.AssemblyInfoInputs.cache
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.AssemblyInfo.cs
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.csproj.CoreCompileInputs.cache
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim..CF851494.Up2Date
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/obj/Debug/net8.0/refint/LifeSim.Tests.dll
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.pdb
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.genruntimeconfig.cache
+/Users/lidia/Work/ИПМКН/Task3/tests/LifeSim.Tests/obj/Debug/net8.0/ref/LifeSim.Tests.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_LifeSim.Tests
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.deps.json
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.runtimeconfig.json
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.Tests.deps.json
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.Tests.runtimeconfig.json
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.Tests.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.Tests.pdb
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/testhost.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/xunit.assert.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/xunit.core.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/bin/Debug/net8.0/LifeSim.pdb
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.csproj.AssemblyReference.cache
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.AssemblyInfoInputs.cache
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.AssemblyInfo.cs
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.csproj.CoreCompileInputs.cache
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim..CF851494.Up2Date
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/obj/Debug/net8.0/refint/LifeSim.Tests.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.pdb
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/obj/Debug/net8.0/LifeSim.Tests.genruntimeconfig.cache
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/tests/LifeSim.Tests/obj/Debug/net8.0/ref/LifeSim.Tests.dll

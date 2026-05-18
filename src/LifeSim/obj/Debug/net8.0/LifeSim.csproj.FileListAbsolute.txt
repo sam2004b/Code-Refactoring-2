@@ -1,0 +1,28 @@
+/Users/lidia/Work/ИПМКН/Task3/src/LifeSim/obj/Debug/net8.0/LifeSim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lidia/Work/ИПМКН/Task3/src/LifeSim/obj/Debug/net8.0/LifeSim.AssemblyInfoInputs.cache
+/Users/lidia/Work/ИПМКН/Task3/src/LifeSim/obj/Debug/net8.0/LifeSim.AssemblyInfo.cs
+/Users/lidia/Work/ИПМКН/Task3/src/LifeSim/obj/Debug/net8.0/LifeSim.csproj.CoreCompileInputs.cache
+/Users/lidia/Work/ИПМКН/Task3/src/LifeSim/bin/Debug/net8.0/LifeSim
+/Users/lidia/Work/ИПМКН/Task3/src/LifeSim/bin/Debug/net8.0/LifeSim.deps.json
+/Users/lidia/Work/ИПМКН/Task3/src/LifeSim/bin/Debug/net8.0/LifeSim.runtimeconfig.json
+/Users/lidia/Work/ИПМКН/Task3/src/LifeSim/bin/Debug/net8.0/LifeSim.dll
+/Users/lidia/Work/ИПМКН/Task3/src/LifeSim/bin/Debug/net8.0/LifeSim.pdb
+/Users/lidia/Work/ИПМКН/Task3/src/LifeSim/obj/Debug/net8.0/LifeSim.dll
+/Users/lidia/Work/ИПМКН/Task3/src/LifeSim/obj/Debug/net8.0/refint/LifeSim.dll
+/Users/lidia/Work/ИПМКН/Task3/src/LifeSim/obj/Debug/net8.0/LifeSim.pdb
+/Users/lidia/Work/ИПМКН/Task3/src/LifeSim/obj/Debug/net8.0/LifeSim.genruntimeconfig.cache
+/Users/lidia/Work/ИПМКН/Task3/src/LifeSim/obj/Debug/net8.0/ref/LifeSim.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/src/LifeSim/bin/Debug/net8.0/LifeSim
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/src/LifeSim/bin/Debug/net8.0/LifeSim.deps.json
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/src/LifeSim/bin/Debug/net8.0/LifeSim.runtimeconfig.json
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/src/LifeSim/bin/Debug/net8.0/LifeSim.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/src/LifeSim/bin/Debug/net8.0/LifeSim.pdb
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/src/LifeSim/obj/Debug/net8.0/LifeSim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/src/LifeSim/obj/Debug/net8.0/LifeSim.AssemblyInfoInputs.cache
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/src/LifeSim/obj/Debug/net8.0/LifeSim.AssemblyInfo.cs
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/src/LifeSim/obj/Debug/net8.0/LifeSim.csproj.CoreCompileInputs.cache
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/src/LifeSim/obj/Debug/net8.0/LifeSim.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/src/LifeSim/obj/Debug/net8.0/refint/LifeSim.dll
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/src/LifeSim/obj/Debug/net8.0/LifeSim.pdb
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/src/LifeSim/obj/Debug/net8.0/LifeSim.genruntimeconfig.cache
+/Users/lidia/Work/Рефакторинг 2025/Иностранцы/Task2/src/LifeSim/obj/Debug/net8.0/ref/LifeSim.dll
