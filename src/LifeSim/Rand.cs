@@ -5,13 +5,16 @@ namespace LifeSim;
 
 public static class Rand
 {
-    private static readonly Random Random = new();
+    private static readonly Random _random = new();
 
-    public static int Next(int min, int max) => Random.Next(min, max);
+    public static int Next(int min, int max) => _random.Next(min, max);
 
-    public static double NextDouble() => Random.NextDouble();
+    public static double NextDouble() => _random.NextDouble();
 
-    public static T? Pick<T>(this IList<T> list) => list.Count == 0 ? default : list[Random.Next(0, list.Count)];
+    public static T? Pick<T>(this IList<T> list) =>
+        list.Count == 0
+            ? default
+            : list[_random.Next(0, list.Count)];
 
     public static bool Chance(double p) => NextDouble() < p;
 }

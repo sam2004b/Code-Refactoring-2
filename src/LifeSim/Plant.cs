@@ -18,21 +18,33 @@ public class Plant : Organism
     public override System.ConsoleColor? Color => System.ConsoleColor.Green;
 
     public override void Tick()
-    {
+    { 
         base.Tick();
 
+        TrySpread();
+        TryDie();
+    }
+
+    private void TrySpread()
+    {
         if (Age >= MatureAge && Rand.Chance(SpreadChance))
         {
-            var spots = World.EmptyNeighbors8(Pos).ToList();
-            if (spots.Count > 0)
+            return;
+        }
+        var spots = World.EmptyNeighbors8(Pos).ToList();
+
+        if (spots.Count > 0)
             {
                 World.Add(new Plant(World, spots.Pick()!));
             }
-        }
-
+    }
+    
+    private void TryDie()
+    {
         if (Age > MaxAge && Rand.Chance(0.01))
         {
             World.Remove(this);
-        }
+         }
     }
 }
+       

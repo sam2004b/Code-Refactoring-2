@@ -53,6 +53,7 @@ public class World
         }
 
         var wrappedPos = Wrap(newPos);
+
         if (_grid.ContainsKey(wrappedPos))
         {
             return;
@@ -75,12 +76,16 @@ public class World
     public void Step()
     {
         Tick++;
-        var snapshot = All.OrderBy(_ => Rand.Next(0, int.MaxValue)).ToList();
-        foreach (var o in snapshot)
+
+        var snapshot = All
+        .OrderBy(_ => Rand.Next(0, int.MaxValue))
+        .ToList();
+
+        foreach (var organism in snapshot)
         {
-            if (o.IsAlive)
+            if (organism.IsAlive)
             {
-                o.Tick();
+                organism.Tick();
             }
         }
 
@@ -103,11 +108,11 @@ public class World
 
     public IEnumerable<Point2> EmptyNeighbors8(Point2 p)
     {
-        foreach (var n in Neighbors8(p))
+        foreach (var neighbour in Neighbors8(p))
         {
-            if (IsEmpty(n))
+            if (IsEmpty(neighbour))
             {
-                yield return n;
+                yield return neighbour;
             }
         }
     }
@@ -117,86 +122,127 @@ public class World
     {
         for (var i = 0; i < count; i++)
         {
-            var p = RandomEmptyCell();
-            if (p == null)
+            var emptyCell = RandomEmptyCell();
+            
+            if (emptyCell == null)
             {
                 break;
             }
 
-            Organism organism = typeof(T).Name switch
-            {
-                nameof(Plant) => new Plant(this, p.Value),
-                nameof(Herbivore) => new Herbivore(this, p.Value),
-                nameof(Predator) => new Predator(this, p.Value),
-                _ => throw new NotSupportedException($"Unknown organism type: {typeof(T).Name}"),
-            };
-
+            var organism = CreateOrganism<T>(emptyCell.Value);
             Add(organism);
         }
     }
 
-    public Point2? RandomEmptyCell()
+      private Organism CreateOrganism<T>(Point2 position)
+        where T : Organism
+    {
+       return typeof(T).Name switch
+       {
+             nameof(Plant) => new Plant(this, position),
+            nameof(Herbivore) => new Herbivore(this, position),
+            nameof(Predator) => new Predator(this, position),
+            _ => throw new NotSupportedException($"Unknown organism type: {typeof(T).Name}")
+        };
+    }
+         public Point2? RandomEmptyCell()
+    {
+        var randomCell = TryFindRandomEmptyCell();
+
+        if (randomCell != null)
+        {
+            return randomCell;
+        }
+
+        return FindEmptyCellFromGrid();
+    }
+
+    private Point2? TryFindRandomEmptyCell()
     {
         for (var i = 0; i < 500; i++)
         {
-            var p = new Point2(Rand.Next(0, Width), Rand.Next(0, Height));
-            if (IsEmpty(p))
+            var point = new Point2(
+                Rand.Next(0, Width),
+                Rand.Next(0, Height));
+
+            if (IsEmpty(point))
             {
-                return p;
+                return point;
             }
         }
 
-        var empties = new List<Point2>();
+        return null;
+    }
+
+    private Point2? FindEmptyCellFromGrid()
+    {
+        var emptyCells = new List<Point2>();
+
         for (var y = 0; y < Height; y++)
         {
             for (var x = 0; x < Width; x++)
             {
-                var p = new Point2(x, y);
-                if (IsEmpty(p))
+                var point = new Point2(x, y);
+
+                if (IsEmpty(point))
                 {
-                    empties.Add(p);
+                    emptyCells.Add(point);
                 }
             }
         }
 
-        return empties.Count == 0 ? null : empties.Pick();
+        return emptyCells.Count == 0
+            ? null
+            : emptyCells.Pick();
     }
 
     public Organism? FindNearest<T>(Point2 from, int visionRange)
         where T : Organism
     {
-        Organism? best = null;
-        var bestDist = int.MaxValue;
+        Organism? nearestOrganism = null;
+        var shortestDistance = int.MaxValue;
 
-        foreach (var o in All)
+        foreach (var organism in All)
         {
-            if (o is T)
+            if (organism is not T)
             {
-                var dx = ToroidalDistance(from.X, o.Pos.X, Width);
-                var dy = ToroidalDistance(from.Y, o.Pos.Y, Height);
-                var distance = dx + dy;
-                if (distance <= visionRange && distance < bestDist)
-                {
-                    best = o;
-                    bestDist = distance;
-                }
+                continue;
+            }
+
+            var distance = CalculateDistance(from, organism.Pos);
+
+            if (distance <= visionRange && distance < shortestDistance)
+            {
+                nearestOrganism = organism;
+                shortestDistance = distance;
             }
         }
 
-        return best;
+        return nearestOrganism;
+    }
+
+    private int CalculateDistance(Point2 from, Point2 to)
+    {
+        var dx = ToroidalDistance(from.X, to.X, Width);
+        var dy = ToroidalDistance(from.Y, to.Y, Height);
+
+        return dx + dy;
     }
 
     public string SerializeWorldSnapshot()
     {
         var items = All.Select(o => $"{o.GetType().Name}@{o.Pos.X},{o.Pos.Y}");
+
         return $"Tick={Tick} | {string.Join(";", items)}";
     }
 
-    public IReadOnlyDictionary<Point2, Organism> GridSnapshot() => new Dictionary<Point2, Organism>(_grid);
+    public IReadOnlyDictionary<Point2, Organism> GridSnapshot() =>
+        new Dictionary<Point2, Organism>(_grid);
 
     private static int ToroidalDistance(int a, int b, int size)
     {
         var diff = Math.Abs(a - b);
+
         return Math.Min(diff, size - diff);
     }
 }
